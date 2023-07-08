@@ -42,5 +42,4 @@ public class ImageFragment extends Fragment {
         return rootView;
     }
 
-
 }
